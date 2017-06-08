@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1736.5 7737.5 1320.2 197.246">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc947;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 15px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 67px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Group_19642" data-name="Group 19642" transform="translate(1713 7452)">
+    <path id="speech_bubble" data-name="speech bubble" class="cls-1" d="M1312.7,43.2V144.1a35.786,35.786,0,0,1-35.7,35.7H104.3a34.685,34.685,0,0,1-17-4.4l.2.7c-12,16.7-80,13.3-80,13.3,46-10,60-66,60-66l1.1,2.8v-83A35.786,35.786,0,0,1,104.3,7.5H1277A35.786,35.786,0,0,1,1312.7,43.2Z" transform="translate(23.5 285.5)"/>
+    <text id="_WE_VE_GOT_HISTORY_No_seriously." data-name="“WE’VE GOT HISTORY!” No, seriously." class="cls-2" transform="translate(160 401)"><tspan x="0" y="0">“WE’VE GOT HISTORY!” No, seriously.</tspan></text>
+  </g>
+</svg>

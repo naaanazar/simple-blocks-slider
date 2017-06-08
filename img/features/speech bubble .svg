@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10025 2060.5 1320.2 197.246">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0f;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 15px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 120px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Group_19610" data-name="Group 19610" transform="translate(10002 1775)">
+    <path id="speech_bubble" data-name="speech bubble" class="cls-1" d="M1312.7,43.2V144.1a35.786,35.786,0,0,1-35.7,35.7H104.3a34.685,34.685,0,0,1-17-4.4l.2.7c-12,16.7-80,13.3-80,13.3,46-10,60-66,60-66l1.1,2.8v-83A35.786,35.786,0,0,1,104.3,7.5H1277A35.786,35.786,0,0,1,1312.7,43.2Z" transform="translate(23 285.5)"/>
+    <text id="SPEAK_YOUR_MIND" data-name="SPEAK YOUR MIND" class="cls-2" transform="translate(189 423)"><tspan x="0" y="0">SPEAK YOUR MIND</tspan></text>
+  </g>
+</svg>

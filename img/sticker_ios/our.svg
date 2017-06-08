@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10180 1820.685 945.018 144.922">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0f;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 15px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 80px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Group_19653" data-name="Group 19653" transform="translate(10002 1775)">
+    <path id="speech_bubble" data-name="speech bubble" class="cls-1" d="M937.517,32.938v71.9a25.5,25.5,0,0,1-25.438,25.438H76.475a24.715,24.715,0,0,1-12.113-3.135l.143.5c-8.551,11.9-57,9.477-57,9.477,32.777-7.125,42.753-47.028,42.753-47.028l.784,2V32.938A25.5,25.5,0,0,1,76.475,7.5h835.6A25.5,25.5,0,0,1,937.517,32.938Z" transform="translate(178 45.685)"/>
+    <text id="Our_Character" data-name="Our Character" class="cls-2" transform="translate(435 141)"><tspan x="0" y="0">Our Character</tspan></text>
+  </g>
+</svg>

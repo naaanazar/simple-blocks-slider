@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="5178 -459.132 1109.8 167.868">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0f;
+        stroke: #fbb900;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 15px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 100px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Group_19620" data-name="Group 19620" transform="translate(4995 -1078)">
+    <path id="Path_4942" data-name="Path 4942" class="cls-1" d="M1102.3,37.445V122.08a30.017,30.017,0,0,1-29.945,29.945H88.7a29.094,29.094,0,0,1-14.26-3.691l.168.587C64.538,162.929,7.5,160.077,7.5,160.077c38.585-8.388,50.328-55.361,50.328-55.361l.923,2.349V37.445A30.017,30.017,0,0,1,88.7,7.5h983.659A30.017,30.017,0,0,1,1102.3,37.445Z" transform="translate(183 618.868)"/>
+    <text id="Meet_The_Team" data-name="Meet The Team" class="cls-2" transform="translate(399 734)"><tspan x="0" y="0">Meet The Team</tspan></text>
+  </g>
+</svg>
